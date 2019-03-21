@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1330324072 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\conio_yp.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio_yp.h"
+
+1330927944 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\conio_yp.h
+	<_mingw.h>
+
+1500645305 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\bullet.cpp
+	"DefaultHeaderFiles.h"
+
+1500645455 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\defaultheaderfiles.h
+	<iostream>
+	<windows.h>
+	<vector>
+	<time.h>
+	"conio_yp.h"
+	"GameObject.h"
+	"Player.h"
+	"Bullet.h"
+	"Enemy.h"
+	"Enemy01.h"
+	"Enemy02.h"
+	"Enemy03.h"
+	"BigBoss.h"
+	"Item.h"
+
+1500645508 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\gameobject.h
+	"DefaultHeaderFiles.h"
+
+1500645515 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\player.h
+	"DefaultHeaderFiles.h"
+
+1500645441 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\bullet.h
+	"DefaultHeaderFiles.h"
+
+1500645468 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy.h
+	"DefaultHeaderFiles.h"
+
+1500645477 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy01.h
+	"DefaultHeaderFiles.h"
+
+1500645488 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy02.h
+	"DefaultHeaderFiles.h"
+
+1500645497 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy03.h
+	"DefaultHeaderFiles.h"
+
+1500645335 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy.cpp
+	"DefaultHeaderFiles.h"
+
+1500645352 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy01.cpp
+	"DefaultHeaderFiles.h"
+
+1500645361 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy02.cpp
+	"DefaultHeaderFiles.h"
+
+1500645375 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\enemy03.cpp
+	"DefaultHeaderFiles.h"
+
+1500645396 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\gameobject.cpp
+	"DefaultHeaderFiles.h"
+
+1500903413 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\main.cpp
+	"DefaultHeaderFiles.h"
+
+1500645428 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\player.cpp
+	"DefaultHeaderFiles.h"
+
+1500903001 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\bigboss.cpp
+	"DefaultHeaderFiles.h"
+
+1500902252 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\bigboss.h
+	"DefaultHeaderFiles.h"
+
+1500645572 c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\item.h
+	"DefaultHeaderFiles.h"
+
+1501550572 source:c:\users\waiho\onedrive\documents\codeblocks\alieninvasion\item.cpp
+	"DefaultHeaderFiles.h"
+
